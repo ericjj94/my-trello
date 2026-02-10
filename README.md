@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## AI info
 
-The components are created with tailwind and Claude. This is an experiement on how Next.js works
+The components are created with Tailwind and Claude. This is an experiment on how Next.js works
 
 
 ## Getting Started
