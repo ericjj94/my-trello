@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
+## AI info
+
+The components are created with tailwind and Claude. This is an experiement on how Next.js works
+
+
 ## Getting Started
 
 First, run the development server:
