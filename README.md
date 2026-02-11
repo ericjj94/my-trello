@@ -29,4 +29,4 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## to start the server
 
-pnpm run server:dev - will startup the backend on localhost:4000
+run the java backend with ./gradlew bootRun - will startup the backend on localhost:8080
